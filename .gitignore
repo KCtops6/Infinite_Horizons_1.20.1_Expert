@@ -2,3 +2,14 @@
 minecraftinstance.json
 changelog.txt
 .vscode/
+local/
+logs/
+config/jei/
+config/fml.toml
+config/forge-client.toml
+rhino.local.properties
+saves/
+options.txt
+usercache.json
+usernamecache.json
+kubejs/config/

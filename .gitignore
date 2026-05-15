@@ -13,3 +13,8 @@ options.txt
 usercache.json
 usernamecache.json
 kubejs/config/
+config/defaultworldtype/biomes.txt
+config/defaultworldtype/world-presets.txt
+config/collective.json5
+config/villagespawnpoint.json5
+kubejs/README.txt
